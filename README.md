@@ -1,6 +1,6 @@
 # Sony Cross-flashing
 
-**SOV35 <- G8231**
+**SOV35 <- G8231:**
 * USERDATA
 * AMSS_FSG
 * AMSS_FS_1
